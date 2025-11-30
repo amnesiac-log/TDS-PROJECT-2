@@ -1,4 +1,4 @@
-# 🤖 TDS Data Analyst Agent
+# 🤖 Data Analyst Agent
 
 <div align="center">
 
